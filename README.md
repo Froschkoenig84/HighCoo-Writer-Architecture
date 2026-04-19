@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/highcoo-readme-header.png?reload=true" alt="HighCoo-Writer Architecture Ecosystem Header" width="100%">
+  
   
   <p align="center">
     <b>HighCoo-Writer | Architecture Showcase 🥃</b><br>
