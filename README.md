@@ -54,6 +54,8 @@ The architecture is designed for seamless extension. Future modules include:
 ### 🏗️ Strategic Architecture
 This repository showcases a **Microservice-first** approach, built on **C# .NET 9** and **Angular (Signals)**. The system is designed using **Domain-Driven Design (DDD)** principles to ensure that each phase of the writing process remains decoupled yet perfectly synchronized.
 
+<br />
+
 ### 🧠 The "AI-First" Paradigm
 Unlike generic wrappers, HighCoo-Writer utilizes a **Semantic Metadata Injection** layer. 
 
@@ -75,6 +77,8 @@ The system is built on **Domain-Driven Design (DDD)** principles, ensuring that 
 * **Core:** C# .NET 9 Microservices.
 * **Modularity:** Each agent (Plot, Wiki, Translator) is a self-contained module, allowing for a **hybrid MVP/Milestone roadmap**.
 * **State Management:** Client-side caching via **IndexedDB** for offline-first drafting and high-performance interaction.
+
+<br />
 
 ### 🧠 AI-Orchestration & Data Intelligence
 To make agents behave like "human colleagues," we use a sophisticated data-gathering layer:
