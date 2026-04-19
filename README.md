@@ -1,12 +1,8 @@
 <div align="center">
   <img src="assets/images/highcoo-readme-header.png?reload=true&v=2" alt="HighCoo-Writer Architecture Ecosystem Header" width="100%">
-  <p align="center">
-    <b>HighCoo-Writer | Architecture Showcase 🥃</b><br>
-    <i>Modular AI-Native Infrastructure for Professional Storytelling. (v0.9 Alpha)</i>
-  </p>
 </div>
 
----
+<br />
 
 # HighCoo-Writer | Architecture Showcase 🥃
 
@@ -14,16 +10,18 @@
 
 HighCoo-Writer is a modular, high-scale software suite designed to orchestrate the entire literary value chain. From the initial structural beat to global distribution, this ecosystem bridges the gap between creative intuition and systematic architectural excellence.
 
+<br />
+
 ---
+
+<br />
+
+## 🚀 The Pipeline (Modular Core)
 
 <div align="center">
   <img src="assets/images/highcoo-readme-pipeline.png?reload=true&v=2" alt="The Regie-Modus: Semantic Metadata Injection Layer" width="85%">
-  <p align="center">
-    <i>Diagram: The Regie-Modus - Transforming raw creative drafts into context-aware AI prompts by injecting system metadata.</i>
-  </p>
-</div>
-
-### 🚀 The Pipeline (Modular Core)
+  <br />
+  <br />
 
 | Module | Focus | Tech / AI Integration |
 | :--- | :--- | :--- |
@@ -33,8 +31,13 @@ HighCoo-Writer is a modular, high-scale software suite designed to orchestrate t
 | **WikiEditor** | Knowledge | Single Source of Truth for world-building metadata. |
 | **Translator** | Reach | DeepL + LLM Hybrid for cultural localization. |
 | **Reader** | Feedback | Orchestrating Alpha/Beta reader feedback loops. |
+</div>
+
+<br />
 
 ---
+
+<br />
 
 ### 📈 Roadmap & Scalability
 The architecture is designed for seamless extension. Future modules include:
@@ -42,7 +45,11 @@ The architecture is designed for seamless extension. Future modules include:
 * **Distribution:** Multi-platform release management.
 * **Accounting:** Royalty tracking and financial insights.
 
+<br />
+
 ---
+
+<br />
 
 ### 🏗️ Strategic Architecture
 This repository showcases a **Microservice-first** approach, built on **C# .NET 9** and **Angular (Signals)**. The system is designed using **Domain-Driven Design (DDD)** principles to ensure that each phase of the writing process remains decoupled yet perfectly synchronized.
@@ -53,7 +60,11 @@ Unlike generic wrappers, HighCoo-Writer utilizes a **Semantic Metadata Injection
 * **Regie-Modus:** The system injects deep domain context (from the WikiEditor and PlotFinder) into LLM requests, allowing for precise, context-aware AI collaboration.
 * **Reactive Core:** Utilizing **Angular Signals** for real-time synchronization between human input and AI-augmented feedback loops.
 
+<br />
+
 ---
+
+<br />
 
 ## 🛠️ Technical Backbone & Methodology
 
@@ -71,7 +82,11 @@ To make agents behave like "human colleagues," we use a sophisticated data-gathe
 * **Storage:** A dual-database approach using **PostgreSQL** for relational metadata and a **VectorDB** for long-term narrative memory and semantic search.
 * **Frontend:** **Angular + Signals** for a reactive, high-speed UI that handles real-time AI streaming without performance bottlenecks.
 
+<br />
+
 ---
+
+<br />
 
 &nbsp;&nbsp;&nbsp;<a href="https://github.com/Froschkoenig84"><img src="assets/images/highcoo-readme-sealbatch.png?reload=true" align="right" width="120" alt="Michael Nicolai Seal"></a><br>
 
