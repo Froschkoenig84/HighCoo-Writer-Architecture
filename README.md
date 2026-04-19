@@ -58,9 +58,10 @@ The architecture is designed for seamless extension. Future modules include:
 
 <div align="right">
   <p><i>A project by</i></p>
-  <img src="assets/images/highcoo-readme-sealbatch.png" alt="Michael Nicolai Seal" width="120">
-  <br>
-  <a href="https://github.com/Froschkoenig84">Back to Profile</a>
+  <a href="https://github.com/Froschkoenig84">
+    <img src="assets/images/highcoo-readme-sealbatch.png" alt="Michael Nicolai Seal" width="120"><br>
+    Back to Profile
+  </a>
 </div>
 
 > *This is a private project developed for fellow authors and personal architectural research. Contact me via LinkedIn for a technical deep dive.*
