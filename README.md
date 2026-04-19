@@ -28,7 +28,7 @@ Unlike generic wrappers, HighCoo-Writer utilizes a **Semantic Metadata Injection
 ---
 
 <div align="center">
-  <img src="assets/images/highcoo-readme-pipeline.png?reload=true" alt="The Regie-Modus: Semantic Metadata Injection Layer" width="85%">
+  <img src="assets/images/highcoo-readme-pipeline.png?reload=true&v=2" alt="The Regie-Modus: Semantic Metadata Injection Layer" width="85%">
   <p align="center">
     <i>Diagram: The Regie-Modus - Transforming raw creative drafts into context-aware AI prompts by injecting system metadata.</i>
   </p>
