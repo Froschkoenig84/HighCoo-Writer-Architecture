@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/highcoo-readme-header.png" alt="HighCoo-Writer Architecture Ecosystem Header" width="100%">
+  <img src="assets/images/highcoo-readme-header.png?reload=true" alt="HighCoo-Writer Architecture Ecosystem Header" width="100%">
   
   <p align="center">
     <b>HighCoo-Writer | Architecture Showcase 🥃</b><br>
@@ -29,7 +29,7 @@ Unlike generic wrappers, HighCoo-Writer utilizes a **Semantic Metadata Injection
 ---
 
 <div align="center">
-  <img src="assets/images/highcoo-readme-pipeline.png" alt="The Regie-Modus: Semantic Metadata Injection Layer" width="85%">
+  <img src="assets/images/highcoo-readme-pipeline.png?reload=true" alt="The Regie-Modus: Semantic Metadata Injection Layer" width="85%">
   <p align="center">
     <i>Diagram: The Regie-Modus - Transforming raw creative drafts into context-aware AI prompts by injecting system metadata.</i>
   </p>
@@ -59,7 +59,7 @@ The architecture is designed for seamless extension. Future modules include:
 <div align="right">
   <p><i>A project by</i></p>
   <a href="https://github.com/Froschkoenig84">
-    <img src="assets/images/highcoo-readme-sealbatch.png" alt="Michael Nicolai Seal" width="120"><br>
+    <img src="assets/images/highcoo-readme-sealbatch.png?reload=true" alt="Michael Nicolai Seal" width="120"><br>
     Back to Profile
   </a>
 </div>
