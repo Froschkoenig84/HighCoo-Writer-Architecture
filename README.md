@@ -53,14 +53,14 @@ The architecture is designed for seamless extension. Future modules include:
 * **Distribution:** Multi-platform release management.
 * **Accounting:** Royalty tracking and financial insights.
 
-<br>
-
-<div align="right">
-  <p><i>A project by</i></p>
+| | |
+| :--- | :--- |
+| **Notice:**
+>This is a private architectural research project developed for personal validation and fellow authors. Contact me via LinkedIn for a technical deep dive. | <div align="right">
+  <i>A project by</i>
   <a href="https://github.com/Froschkoenig84">
     <img src="assets/images/highcoo-readme-sealbatch.png?reload=true" alt="Michael Nicolai Seal" width="120"><br>
     Back to Profile
   </a>
-</div>
+</div> |
 
-> *This is a private project developed for fellow authors and personal architectural research. Contact me via LinkedIn for a technical deep dive.*
