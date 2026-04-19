@@ -1,6 +1,5 @@
 <div align="center">
-  
-  
+  <img src="assets/images/highcoo-readme-header.png?reload=true&v=2" alt="HighCoo-Writer Architecture Ecosystem Header" width="100%">
   <p align="center">
     <b>HighCoo-Writer | Architecture Showcase 🥃</b><br>
     <i>Modular AI-Native Infrastructure for Professional Storytelling. (v0.9 Alpha)</i>
