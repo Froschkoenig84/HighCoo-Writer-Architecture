@@ -73,7 +73,7 @@ To make agents behave like "human colleagues," we use a sophisticated data-gathe
 
 ---
 
-<img src="assets/images/highcoo-readme-sealbatch.png?reload=true" align="right" width="120" alt="Michael Nicolai Seal"><br>
+&nbsp;&nbsp;&nbsp;<img src="assets/images/highcoo-readme-sealbatch.png?reload=true" align="right" width="120" alt="Michael Nicolai Seal"><br>
 
 > *This is a private architectural research project developed for personal validation and fellow authors. Contact me via LinkedIn for a technical deep dive.*
 
